@@ -1,4 +1,12 @@
-Welcome! 
+Welcome! Привет!  
+
+Благодаря этим Исходникам можно получить так сайт  
+https://dvesti.github.io/bookdown-demo-dvesti/
+
+Сайт на русском  
+PDF -- с русскими буквами  
+epub -- тоже неплохо смотрится (смотреть в программе Calibre -- https://calibre-ebook.com/ru)  
+
 
 This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
 
